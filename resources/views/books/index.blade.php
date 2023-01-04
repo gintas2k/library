@@ -31,6 +31,7 @@
                             <th>puslapių sk.</th>
                             <th>Aprašymas</th>
                             <th></th>
+                            <th></th>
                         </tr>
                         </thead>
                         <tbody>
